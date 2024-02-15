@@ -5,8 +5,7 @@ A collection of research papers on Diffusion Models for Weather Forecasting.
 | Model              | Paper                      | Topic                      | Publication    | Date     | Links                                         |
 | ------------------ | -------------------------- | -------------------------- | -------------- | -------- | --------------------------------------------- |
 | -            | Diffusion Models for High-Resolution Solar Forecasts | Cloud Cover Forecasting | - | 2023.02  | [[paper]](https://arxiv.org/pdf/2302.00170v1.pdf)   |
-| LDCast            | Latent diffusion models for generative precipitation nowcasting with accurate uncertainty quantification
- | Precipitation Nowcasting | - | 2023.04  | [[paper]](https://arxiv.org/pdf/2304.12891.pdf) [[code]](https://github.com/MeteoSwiss/ldcast)  |
+| LDCast            | Latent diffusion models for generative precipitation nowcasting with accurate uncertainty quantification | Precipitation Nowcasting | - | 2023.04  | [[paper]](https://arxiv.org/pdf/2304.12891.pdf) [[code]](https://github.com/MeteoSwiss/ldcast)  |
 | SEEDS            | Emulation of Weather Forecast Ensembles
 with Diffusion Models | Ensemble Forecast Emulation | - | 2023.06  | [[paper]](https://arxiv.org/pdf/2306.14066.pdf)  |
 | SwinRDM            |  Integrate SwinRNN with Diffusion Model towards High-Resolution
