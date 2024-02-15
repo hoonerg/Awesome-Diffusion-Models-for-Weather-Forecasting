@@ -11,6 +11,8 @@ A collection of research papers on Diffusion Models for Weather Forecasting.
 | SwinRDM            |  Integrate SwinRNN with Diffusion Model towards High-Resolution and High-Quality Weather Forecasting | Global Weather Forecasting | AAAI | 2023.06  | [[paper]](https://arxiv.org/pdf/2306.03110.pdf)  |
 | PreDiff            |  Precipitation Nowcasting with Latent Diffusion Models | Precipitation Nowcasting | NeurIPS | 2023.07  | [[paper]](https://arxiv.org/pdf/2307.10422.pdf) [[code]](https://github.com/gaozhihan/PreDiff)  |
 | GDE            | Precipitation nowcasting with generative diffusion models | Precipitation Nowcasting | - | 2023.08  | [[paper]](https://arxiv.org/pdf/2308.06733.pdf) [[code]](https://github.com/fmerizzi/Precipitation-nowcasting-with-generative-diffusion-models)  |
+| CorrDiff            | Residual Diffusion Modeling for Km-scale Atmospheric Downscaling | Downscaling | - | 2023.10  | [[paper]](https://arxiv.org/pdf/2309.15214.pdf) |
+| OF-Diff            | Probabilistic Precipitation Downscaling with Optical Flow-Guided Diffusion | Downscaling | - | 2023.11  | [[paper]](https://arxiv.org/pdf/2312.06071.pdf) |
 | FuXi-Extreme | Improving extreme rainfall and wind forecasts with diffusion model | Global (Extreme) Weather Forecasting | - | 2023.10  | [[paper]](https://arxiv.org/pdf/2310.19822.pdf) |
 | GenCast            | GenCast: Diffusion-based ensemble forecasting for medium-range weather | Global Weather Forecasting | - | 2023.12  | [[paper]](https://arxiv.org/pdf/2312.15796)   |
 | DiffCast            | A Unified Framework via Residual Diffusion for Precipitation Nowcasting | Precipitation Nowcasting | - | 2023.12  | [[paper]](https://arxiv.org/pdf/2312.06734.pdf) |
