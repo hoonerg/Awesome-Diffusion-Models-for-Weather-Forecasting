@@ -11,9 +11,10 @@ A collection of research papers on Diffusion Models for Weather Forecasting.
 | PreDiff            |  Precipitation Nowcasting with Latent Diffusion Models | Precipitation Nowcasting | NeurIPS | 2023.07  | [[paper]](https://arxiv.org/pdf/2307.10422.pdf) [[code]](https://github.com/gaozhihan/PreDiff)  |
 | GDE            | Precipitation nowcasting with generative diffusion models | Precipitation Nowcasting | - | 2023.08  | [[paper]](https://arxiv.org/pdf/2308.06733.pdf) [[code]](https://github.com/fmerizzi/Precipitation-nowcasting-with-generative-diffusion-models)  |
 | GenCast            | GenCast: Diffusion-based ensemble forecasting for medium-range weather | Global Weather Forecasting | - | 2023.12  | [[paper]](https://arxiv.org/pdf/2312.15796)   |
-| SDEdit-Weather            | Weather Prediction with Diffusion Guided by Realistic Forecast Processes | Global Weather Forecasting | - | 2024.02  | [[paper]](https://arxiv.org/pdf/2402.06666.pdf)   |
-| DiffCast            | A Unified Framework via Residual Diffusion for Precipitation Nowcasting | Turbulent Simulation | Precipitation Nowcasting | 2023.12  | [[paper]](https://arxiv.org/pdf/2312.06734.pdf) |
+| DiffCast            | A Unified Framework via Residual Diffusion for Precipitation Nowcasting | Precipitation Nowcasting | - | 2023.12  | [[paper]](https://arxiv.org/pdf/2312.06734.pdf) |
 | DGDM            | Deterministic Guidance Diffusion Model for Probabilistic Weather Forecasting | Weather Forecasting | - | 2023.12  | [[paper]](https://arxiv.org/pdf/2312.02819.pdf) [[code]](https://github.com/DongGeun-Yoon/DGDM?tab=readme-ov-file)  |
+| - | Advancing Realistic Precipitation Nowcasting With a Spatiotemporal Transformer-Based Denoising Diffusion Model | Precipitation Nowcasting | IEEE TGRS | 2024.01  | [[paper]](https://ieeexplore.ieee.org/abstract/document/10403855)  |
 | DiffDA            | A diffusion model for weather-scale data assimilation | Data Assimilation | - | 2024.01  | [[paper]](https://arxiv.org/pdf/2401.05932.pdf)  |
 | CasCast            | Skillful High-resolution Precipitation Nowcasting via Cascaded Modelling | Precipitation Nowcasting | - | 2024.02  | [[paper]](https://arxiv.org/pdf/2402.04290.pdf)  |
-| GDE            | - | Turbulent Simulation | - | 2023.09  | [[paper]](https://arxiv.org/pdf/2308.06733.pdf) [[code]](https://github.com/gaozhihan/PreDiff)  |
+| SDEdit-Weather            | Weather Prediction with Diffusion Guided by Realistic Forecast Processes | Global Weather Forecasting | - | 2024.02  | [[paper]](https://arxiv.org/pdf/2402.06666.pdf)  |
+| - | - | - | - | 2023.09  | [[paper]]() [[code]]()  |
