@@ -22,4 +22,5 @@ A collection of research papers on Diffusion Models for Weather Forecasting.
 | ExtremeCast | Boosting Extreme Value Prediction for Global Weather Forecast | Global (Extreme) Weather Forecasting | - | 2024.02  | [[paper]](https://arxiv.org/pdf/2402.01295.pdf)  |
 | CasCast            | Skillful High-resolution Precipitation Nowcasting via Cascaded Modelling | Precipitation Nowcasting | - | 2024.02  | [[paper]](https://arxiv.org/pdf/2402.04290.pdf)  |
 | SDEdit-Weather            | Weather Prediction with Diffusion Guided by Realistic Forecast Processes | Global Weather Forecasting | - | 2024.02  | [[paper]](https://arxiv.org/pdf/2402.06666.pdf)  |
+| - | Physics-Informed Diffusion Model and Sampling for Global Weather Forecasting | Global Weather Forecasting | - | 2024.03  | [[paper]](https://doi.org/10.5194/egusphere-egu24-13882)  |
 | - | - | - | - | 2024.02  | [[paper]]() [[code]]()  |
