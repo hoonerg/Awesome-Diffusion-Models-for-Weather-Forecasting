@@ -17,7 +17,7 @@ A collection of research papers on Diffusion Models for Weather Forecasting.
 | FuXi-Extreme | Improving extreme rainfall and wind forecasts with diffusion model | Global (Extreme) Weather Forecasting | - | 2023.10  | [[paper]](https://arxiv.org/pdf/2310.19822.pdf) |
 | OF-Diff            | Probabilistic Precipitation Downscaling with Optical Flow-Guided Diffusion | Downscaling | - | 2023.11  | [[paper]](https://arxiv.org/pdf/2312.06071.pdf) |
 | GenCast            | GenCast: Diffusion-based ensemble forecasting for medium-range weather | Global Weather Forecasting | - | 2023.12  | [[paper]](https://arxiv.org/pdf/2312.15796)   |
-| DiffCast            | A Unified Framework via Residual Diffusion for Precipitation Nowcasting | Precipitation Nowcasting | - | 2023.12  | [[paper]](https://arxiv.org/pdf/2312.06734.pdf) |
+| DiffCast            | A Unified Framework via Residual Diffusion for Precipitation Nowcasting | Precipitation Nowcasting | CVPR | 2023.12  | [[paper]](https://arxiv.org/pdf/2312.06734.pdf) [[code]](https://github.com/DeminYu98/DiffCast) |
 | DGDM            | Deterministic Guidance Diffusion Model for Probabilistic Weather Forecasting | Weather Forecasting | - | 2023.12  | [[paper]](https://arxiv.org/pdf/2312.02819.pdf) [[code]](https://github.com/DongGeun-Yoon/DGDM?tab=readme-ov-file)  |
 | - | Advancing Realistic Precipitation Nowcasting With a Spatiotemporal Transformer-Based Denoising Diffusion Model | Precipitation Nowcasting | IEEE TGRS | 2024.01  | [[paper]](https://ieeexplore.ieee.org/abstract/document/10403855)  |
 | DiffDA            | A diffusion model for weather-scale data assimilation | Data Assimilation | - | 2024.01  | [[paper]](https://arxiv.org/pdf/2401.05932.pdf)  |
