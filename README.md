@@ -30,4 +30,5 @@ A collection of research papers on Diffusion Models for Weather Forecasting.
 | - | Physics-Informed Diffusion Model and Sampling for Global Weather Forecasting | Global Weather Forecasting | - | 2024.03  | [[paper]](https://doi.org/10.5194/egusphere-egu24-13882)  |
 | DiffObs | Generative Diffusion for Global Forecasting of Satellite Observations | Global Preciptation Forecasting | ICLR 2024 Workshop | 2024.04  | [[paper]](https://arxiv.org/pdf/2404.06517.pdf)  |
 | - | Diffusion-Based Joint Temperature and Precipitation Emulation of Earth System Models | Emulation | ICLR 2024 Workshop | 2024.04  | [[paper]](https://arxiv.org/pdf/2404.08797.pdf)  |
+| SLAMS | Deep Generative Data Assimilation in Multimodal Setting | Data Assimilation | - | 2024.04  | [[paper]](https://arxiv.org/pdf/2404.06665) [[code]](https://github.com/yongquan-qu/SLAMS)  |
 | - | - | - | - | 2024.02  | [[paper]]() [[code]]()  |
