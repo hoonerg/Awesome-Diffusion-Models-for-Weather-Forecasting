@@ -3,7 +3,7 @@
 
 A collection of research papers on Diffusion Models for Weather Forecasting. The papers are ordered by date.
 
-I check Arxiv weekly and add any diffusion-related papers on topics in atmospheric science. 
+I check Arxiv weekly and add any diffusion-related papers on topics in atmospheric science.  
 I might miss the publication of a paper if it is published after its initial upload to Arxiv.
 
 ## Diffusion Models
