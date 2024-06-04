@@ -1,7 +1,10 @@
 # Awesome Diffusion Models for Weather Forecasting 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/hoonerg/Awesome-Diffusion-Models-for-Weather-Forecasting) ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) 
 
-A collection of research papers on Diffusion Models for Weather Forecasting.
+A collection of research papers on Diffusion Models for Weather Forecasting. The papers are ordered by date.
+
+I check Arxiv weekly and add any diffusion-related papers on topics in atmospheric science. 
+I might miss the publication of a paper if it is published after its initial upload to Arxiv.
 
 ## Diffusion Models
 | Model              | Paper                      | Topic                      | Publication    | Date (&darr;) | Links                                         |
@@ -21,7 +24,7 @@ A collection of research papers on Diffusion Models for Weather Forecasting.
 | DiffCast            | A Unified Framework via Residual Diffusion for Precipitation Nowcasting | Precipitation Nowcasting | CVPR 2024 | 2023.12  | [[paper]](https://arxiv.org/pdf/2312.06734.pdf) [[code]](https://github.com/DeminYu98/DiffCast) |
 | DGDM            | Deterministic Guidance Diffusion Model for Probabilistic Weather Forecasting | Weather Forecasting using Satellite | - | 2023.12  | [[paper]](https://arxiv.org/pdf/2312.02819.pdf) [[code]](https://github.com/DongGeun-Yoon/DGDM?tab=readme-ov-file)  |
 | - | Advancing Realistic Precipitation Nowcasting With a Spatiotemporal Transformer-Based Denoising Diffusion Model | Precipitation Nowcasting | IEEE TGRS | 2024.01  | [[paper]](https://ieeexplore.ieee.org/abstract/document/10403855)  |
-| DiffDA            | A diffusion model for weather-scale data assimilation | Data Assimilation | - | 2024.01  | [[paper]](https://arxiv.org/pdf/2401.05932.pdf)  |
+| DiffDA            | A diffusion model for weather-scale data assimilation | Data Assimilation | - | 2024.01  | [[paper]](https://arxiv.org/pdf/2401.05932.pdf) [[code]](https://github.com/spcl/DiffDA) |
 | LT3P            | Long-Term Typhoon Trajectory Prediction: A Physics-Conditioned Approach Without Reanalysis Data | Tropical Cyclone Trajectory Forecasting | ICLR 2024 | 2024.01  | [[paper]](https://arxiv.org/pdf/2401.15726.pdf) [[code]](https://github.com/iclr2024submit/LT3P) |
 | -            | Wind speed super-resolution and validation: from ERA5 to CERRA via diffusion models | Super resolution | - | 2024.01  | [[paper]](https://arxiv.org/pdf/2401.15469.pdf) [[code]](https://github.com/fmerizzi/ERA5-to-CERRA-via-Diffusion-Models/) |
 | ExtremeCast | Boosting Extreme Value Prediction for Global Weather Forecast | Global (Extreme) Weather Forecasting | - | 2024.02  | [[paper]](https://arxiv.org/pdf/2402.01295.pdf)  |
