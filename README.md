@@ -37,4 +37,6 @@ I might miss the publication of a paper if it is published after its initial upl
 | ClimateDiffuse | Generative Diffusion-based Downscaling for Climate | Downscaling | - | 2024.04  | [[paper]](https://arxiv.org/pdf/2404.17752) [[code]](https://github.com/robbiewatt1/ClimateDiffuse)  |
 | CloudDiff | Super-resolution ensemble retrieval of cloud properties for all day using the generative diffusion model | Super-resolution | - | 2024.05  | [[paper]](https://arxiv.org/pdf/2405.04483)  |
 | Spherical DYffusion | Probabilistic Emulation of a Global Climate Model with Spherical DYffusion | Global Climate Modelling | - | 2024.06  | [[paper]](https://arxiv.org/pdf/2406.14798)  |
+| - | Towards diffusion models for large-scale sea-ice modelling | Sea-Ice modelling | - | 2024.06  | [[paper]](https://arxiv.org/pdf/2406.18417)  |
+| - | Generative Data Assimilation of Sparse Weather Station Observations at Kilometer Scales | Data Assimilation | - | 2024.06  | [[paper]](https://arxiv.org/pdf/2406.16947)  |
 | - | - | - | - | 2024.00  | [[paper]]() [[code]]()  |
