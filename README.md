@@ -1,7 +1,8 @@
 # Awesome Diffusion Models for Weather Forecasting 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/hoonerg/Awesome-Diffusion-Models-for-Weather-Forecasting) ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) 
 
-A collection of research papers on Diffusion Models for Weather Forecasting. The papers are ordered by date.
+A collection of research papers on Diffusion Models for Weather Forecasting.
+The papers are ordered by date.
 
 I check Arxiv weekly and add any diffusion-related papers on topics in atmospheric science.  
 I might miss the publication of a paper if it is published after its initial upload to Arxiv.
@@ -39,4 +40,5 @@ I might miss the publication of a paper if it is published after its initial upl
 | Spherical DYffusion | Probabilistic Emulation of a Global Climate Model with Spherical DYffusion | Global Climate Modelling | - | 2024.06  | [[paper]](https://arxiv.org/pdf/2406.14798)  |
 | - | Towards diffusion models for large-scale sea-ice modelling | Sea-Ice modelling | - | 2024.06  | [[paper]](https://arxiv.org/pdf/2406.18417)  |
 | - | Generative Data Assimilation of Sparse Weather Station Observations at Kilometer Scales | Data Assimilation | - | 2024.06  | [[paper]](https://arxiv.org/pdf/2406.16947)  |
+| - | Latent Diffusion Model for Generating Ensembles of Climate Simulations | Ensemble Forecasting | - | 2024.07  | [[paper]](https://arxiv.org/pdf/2407.02070)  |
 | - | - | - | - | 2024.00  | [[paper]]() [[code]]()  |
