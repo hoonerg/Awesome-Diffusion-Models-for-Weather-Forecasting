@@ -1,7 +1,7 @@
 # Awesome Diffusion Models for Weather Forecasting 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/hoonerg/Awesome-Diffusion-Models-for-Weather-Forecasting) ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) 
 
-A collection of research papers on Diffusion Models for Weather Forecasting.
+A collection of research papers on Diffusion Models for Weather Forecasting. 
 The papers are ordered by date.
 
 I check Arxiv weekly and add any diffusion-related papers on topics in atmospheric science.  
@@ -43,4 +43,6 @@ I might miss the publication of a paper if it is published after its initial upl
 | - | Latent Diffusion Model for Generating Ensembles of Climate Simulations | Ensemble Forecasting | - | 2024.07  | [[paper]](https://arxiv.org/pdf/2407.02070)  |
 | CPMGEM | Machine learning emulation of precipitation from km-scale regional climate simulations using a diffusion model | Precipitation Forecasting | - | 2024.07  | [[paper]](https://arxiv.org/pdf/2407.14158) [[code]](https://github.com/henryaddison/mlde)  |
 | - | Forecasting Tropical Cyclones with Cascaded Diffusion Models | TC/Precipitation Forecasting | ICLR 2024 Workshop | 2024.07  | [[paper]](https://arxiv.org/pdf/2310.01690) [[code]](https://github.com/p3jitnath/forecast-diffmodels)  |
+| KESHDiff | Generative Diffusion Model-based Downscaling of Observed Sea Surface Height over Kuroshio Extension since 2000 | Downscaling | - | 2024.08  | [[paper]](https://arxiv.org/pdf/2408.12632) [[code]]()  |
+| StormCast | Kilometer-Scale Convection Allowing Model Emulation using Generative Diffusion Modeling | Emulation | - | 2024.08  | [[paper]](https://arxiv.org/pdf/2408.10958) [[code]]()  |
 | - | - | - | - | 2024.00  | [[paper]]() [[code]]()  |
