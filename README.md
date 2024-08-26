@@ -39,10 +39,11 @@ I might miss the publication of a paper if it is published after its initial upl
 | CloudDiff | Super-resolution ensemble retrieval of cloud properties for all day using the generative diffusion model | Super-resolution | - | 2024.05  | [[paper]](https://arxiv.org/pdf/2405.04483)  |
 | Spherical DYffusion | Probabilistic Emulation of a Global Climate Model with Spherical DYffusion | Global Climate Modelling | - | 2024.06  | [[paper]](https://arxiv.org/pdf/2406.14798)  |
 | - | Towards diffusion models for large-scale sea-ice modelling | Sea-Ice modelling | - | 2024.06  | [[paper]](https://arxiv.org/pdf/2406.18417)  |
+| AIFS | ECMWF's data-driven forecasting system | Global Weather Forecasting | - | 2024.06  | [[paper]](https://arxiv.org/pdf/2406.01465) |
 | - | Generative Data Assimilation of Sparse Weather Station Observations at Kilometer Scales | Data Assimilation | - | 2024.06  | [[paper]](https://arxiv.org/pdf/2406.16947)  |
 | - | Latent Diffusion Model for Generating Ensembles of Climate Simulations | Ensemble Forecasting | - | 2024.07  | [[paper]](https://arxiv.org/pdf/2407.02070)  |
 | CPMGEM | Machine learning emulation of precipitation from km-scale regional climate simulations using a diffusion model | Precipitation Forecasting | - | 2024.07  | [[paper]](https://arxiv.org/pdf/2407.14158) [[code]](https://github.com/henryaddison/mlde)  |
 | - | Forecasting Tropical Cyclones with Cascaded Diffusion Models | TC/Precipitation Forecasting | ICLR 2024 Workshop | 2024.07  | [[paper]](https://arxiv.org/pdf/2310.01690) [[code]](https://github.com/p3jitnath/forecast-diffmodels)  |
-| KESHDiff | Generative Diffusion Model-based Downscaling of Observed Sea Surface Height over Kuroshio Extension since 2000 | Downscaling | - | 2024.08  | [[paper]](https://arxiv.org/pdf/2408.12632) [[code]]()  |
-| StormCast | Kilometer-Scale Convection Allowing Model Emulation using Generative Diffusion Modeling | Emulation | - | 2024.08  | [[paper]](https://arxiv.org/pdf/2408.10958) [[code]]()  |
+| KESHDiff | Generative Diffusion Model-based Downscaling of Observed Sea Surface Height over Kuroshio Extension since 2000 | Downscaling | - | 2024.08  | [[paper]](https://arxiv.org/pdf/2408.12632) |
+| StormCast | Kilometer-Scale Convection Allowing Model Emulation using Generative Diffusion Modeling | Emulation | - | 2024.08  | [[paper]](https://arxiv.org/pdf/2408.10958)  |
 | - | - | - | - | 2024.00  | [[paper]]() [[code]]()  |
