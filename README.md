@@ -46,6 +46,7 @@ I might miss the publication of a paper if it is published after its initial upl
 | - | Forecasting Tropical Cyclones with Cascaded Diffusion Models | TC/Precipitation Forecasting | ICLR 2024 Workshop | 2024.07  | [[paper]](https://arxiv.org/pdf/2310.01690) [[code]](https://github.com/p3jitnath/forecast-diffmodels)  |
 | KESHDiff | Generative Diffusion Model-based Downscaling of Observed Sea Surface Height over Kuroshio Extension since 2000 | Downscaling | - | 2024.08  | [[paper]](https://arxiv.org/pdf/2408.12632) |
 | StormCast | Kilometer-Scale Convection Allowing Model Emulation using Generative Diffusion Modeling | Emulation | - | 2024.08  | [[paper]](https://arxiv.org/pdf/2408.10958)  |
-| DifERS | A Generative Diffusion Model for Probabilistic Ensembles of Precipitation Maps Conditioned on Multisensor Satellite Observations | Precipitation Forecasting | - | 2024.09  | [[paper]](https://arxiv.org/pdf/2409.16319) [[code]]()  |
+| DifERS | A Generative Diffusion Model for Probabilistic Ensembles of Precipitation Maps Conditioned on Multisensor Satellite Observations | Precipitation Forecasting | - | 2024.09  | [[paper]](https://arxiv.org/pdf/2409.16319) |
 | CoDiCast | Conditional Diffusion Model for Weather Prediction with Uncertainty Quantification | Global Weather Forecasting | - | 2024.09  | [[paper]](https://arxiv.org/pdf/2409.05975) [[code]](https://github.com/JimengShi/CoDiCast)  |
+| R2-D2 | Dynamical-generative downscaling of climate model ensembles | Downscaling | - | 2024.10  | [[paper]](https://arxiv.org/pdf/2410.01776) [[code]]()  |
 | - | - | - | - | 2024.00  | [[paper]]() [[code]]()  |
