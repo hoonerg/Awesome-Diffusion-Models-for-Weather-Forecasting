@@ -41,13 +41,14 @@ I might miss the publication of a paper if it is published after its initial upl
 | - | Towards diffusion models for large-scale sea-ice modelling | Sea-Ice modelling | - | 2024.06  | [[paper]](https://arxiv.org/pdf/2406.18417)  |
 | AIFS | ECMWF's data-driven forecasting system | Global Weather Forecasting | - | 2024.06  | [[paper]](https://arxiv.org/pdf/2406.01465) |
 | - | Generative Data Assimilation of Sparse Weather Station Observations at Kilometer Scales | Data Assimilation | - | 2024.06  | [[paper]](https://arxiv.org/pdf/2406.16947)  |
+| LDM_res | Can AI be enabled to dynamical downscaling? A Latent Diffusion Model to mimic km-scale COSMO5.0_CLM9 simulations | Downscaling | - | 2024.06  | [[paper]](https://arxiv.org/pdf/2406.13627) [[code]](https://github.com/DSIP-FBK/DiffScaler)  |
 | - | Latent Diffusion Model for Generating Ensembles of Climate Simulations | Ensemble Forecasting | - | 2024.07  | [[paper]](https://arxiv.org/pdf/2407.02070)  |
 | CPMGEM | Machine learning emulation of precipitation from km-scale regional climate simulations using a diffusion model | Precipitation Forecasting | - | 2024.07  | [[paper]](https://arxiv.org/pdf/2407.14158) [[code]](https://github.com/henryaddison/mlde)  |
 | - | Forecasting Tropical Cyclones with Cascaded Diffusion Models | TC/Precipitation Forecasting | ICLR 2024 Workshop | 2024.07  | [[paper]](https://arxiv.org/pdf/2310.01690) [[code]](https://github.com/p3jitnath/forecast-diffmodels)  |
 | KESHDiff | Generative Diffusion Model-based Downscaling of Observed Sea Surface Height over Kuroshio Extension since 2000 | Downscaling | - | 2024.08  | [[paper]](https://arxiv.org/pdf/2408.12632) |
 | StormCast | Kilometer-Scale Convection Allowing Model Emulation using Generative Diffusion Modeling | Emulation | - | 2024.08  | [[paper]](https://arxiv.org/pdf/2408.10958)  |
-| LDM_res | Can AI be enabled to dynamical downscaling? A Latent Diffusion Model to mimic km-scale COSMO5.0_CLM9 simulations | Downscaling | - | 2024.08  | [[paper]](https://arxiv.org/pdf/2406.13627) [[code]](https://github.com/DSIP-FBK/DiffScaler)  |
 | DifERS | A Generative Diffusion Model for Probabilistic Ensembles of Precipitation Maps Conditioned on Multisensor Satellite Observations | Precipitation Forecasting | - | 2024.09  | [[paper]](https://arxiv.org/pdf/2409.16319) |
 | CoDiCast | Conditional Diffusion Model for Weather Prediction with Uncertainty Quantification | Global Weather Forecasting | - | 2024.09  | [[paper]](https://arxiv.org/pdf/2409.05975) [[code]](https://github.com/JimengShi/CoDiCast)  |
-| R2-D2 | Dynamical-generative downscaling of climate model ensembles | Downscaling | - | 2024.10  | [[paper]](https://arxiv.org/pdf/2410.01776) [[code]]()  |
+| R2-D2 | Dynamical-generative downscaling of climate model ensembles | Downscaling | - | 2024.10  | [[paper]](https://arxiv.org/pdf/2410.01776) |
+| Yantian | An Application Platform for AI Global Weather Forecasting Models | Global Weather Forecasting | - | 2024.10  | [[paper]](https://arxiv.org/pdf/2410.04539)  |
 | - | - | - | - | 2024.00  | [[paper]]() [[code]]()  |
