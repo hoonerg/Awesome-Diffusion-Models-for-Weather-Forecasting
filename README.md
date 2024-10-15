@@ -8,7 +8,7 @@ I check Arxiv weekly and add any diffusion-related papers on topics in atmospher
 I might miss the publication of a paper if it is published after its initial upload to Arxiv.
 
 ## Diffusion Models
-| Model              | Paper                      | Topic                      | Publication    | Date (&darr;) | Links                                         |
+| Model Name         | Paper Title                | Topic                      | Publication    | Date (&darr;) | Links                                         |
 | ------------------ | -------------------------- | -------------------------- | -------------- | -------- | --------------------------------------------- |
 | -            | Diffusion Models for High-Resolution Solar Forecasts | Cloud Cover Forecasting | - | 2023.02  | [[paper]](https://arxiv.org/pdf/2302.00170v1.pdf)   |
 | LDCast            | Latent diffusion models for generative precipitation nowcasting with accurate uncertainty quantification | Precipitation Nowcasting | - | 2023.04  | [[paper]](https://arxiv.org/pdf/2304.12891.pdf) [[code]](https://github.com/MeteoSwiss/ldcast)  |
@@ -28,7 +28,7 @@ I might miss the publication of a paper if it is published after its initial upl
 | DiffDA            | A diffusion model for weather-scale data assimilation | Data Assimilation | - | 2024.01  | [[paper]](https://arxiv.org/pdf/2401.05932.pdf) [[code]](https://github.com/spcl/DiffDA) |
 | LT3P            | Long-Term Typhoon Trajectory Prediction: A Physics-Conditioned Approach Without Reanalysis Data | Tropical Cyclone Trajectory Forecasting | ICLR 2024 | 2024.01  | [[paper]](https://arxiv.org/pdf/2401.15726.pdf) [[code]](https://github.com/iclr2024submit/LT3P) |
 | -            | Wind speed super-resolution and validation: from ERA5 to CERRA via diffusion models | Super resolution | - | 2024.01  | [[paper]](https://arxiv.org/pdf/2401.15469.pdf) [[code]](https://github.com/fmerizzi/ERA5-to-CERRA-via-Diffusion-Models/) |
-| ExtremeCast | Boosting Extreme Value Prediction for Global Weather Forecast | Global (Extreme) Weather Forecasting | - | 2024.02  | [[paper]](https://arxiv.org/pdf/2402.01295.pdf)  |
+| ExtremeCast | Boosting Extreme Value Prediction for Global Weather Forecast | Global (Extreme) Weather Forecasting | - | 2024.02  | [[paper]](https://arxiv.org/pdf/2402.01295.pdf) [[code]](https://github.com/black-yt/ExtremeCast) |
 | CasCast            | Skillful High-resolution Precipitation Nowcasting via Cascaded Modelling | Precipitation Nowcasting | - | 2024.02  | [[paper]](https://arxiv.org/pdf/2402.04290.pdf)  |
 | SDEdit-Weather            | Weather Prediction with Diffusion Guided by Realistic Forecast Processes | Global Weather Forecasting | - | 2024.02  | [[paper]](https://arxiv.org/pdf/2402.06666.pdf)  |
 | - | Physics-Informed Diffusion Model and Sampling for Global Weather Forecasting | Global Weather Forecasting | - | 2024.03  | [[paper]](https://doi.org/10.5194/egusphere-egu24-13882)  |
@@ -51,4 +51,6 @@ I might miss the publication of a paper if it is published after its initial upl
 | CoDiCast | Conditional Diffusion Model for Weather Prediction with Uncertainty Quantification | Global Weather Forecasting | - | 2024.09  | [[paper]](https://arxiv.org/pdf/2409.05975) [[code]](https://github.com/JimengShi/CoDiCast)  |
 | R2-D2 | Dynamical-generative downscaling of climate model ensembles | Downscaling | - | 2024.10  | [[paper]](https://arxiv.org/pdf/2410.01776) |
 | Yantian | An Application Platform for AI Global Weather Forecasting Models | Global Weather Forecasting | - | 2024.10  | [[paper]](https://arxiv.org/pdf/2410.04539)  |
+| ARCI | Continuous Ensemble Weather Forecasting with Diffusion models | Ensemble Forecasting | - | 2024.10  | [[paper]](https://arxiv.org/pdf/2410.05431) [[code]](https://github.com/martinandrae/Continuous-Ensemble-Forecasting)  |
+| IceDiff | High Resolution and High-Quality Sea Ice Forecasting with Generative Diffusion Prior | Sea Ice Forecasting | - | 2024.10  | [[paper]](https://arxiv.org/pdf/2410.09111)  |
 | - | - | - | - | 2024.00  | [[paper]]() [[code]]()  |
