@@ -5,6 +5,7 @@ A collection of research papers on Diffusion Models for Weather Forecasting.
 The papers are ordered by date.
 
 I check Arxiv weekly and add any diffusion-related papers on topics in atmospheric science.  
+It will continue at least until the end of this year.  
 I might miss the publication of a paper if it is published after its initial upload to Arxiv.
 
 ## Diffusion Models
@@ -21,7 +22,7 @@ I might miss the publication of a paper if it is published after its initial upl
 | CorrDiff            | Residual Diffusion Modeling for Km-scale Atmospheric Downscaling | Downscaling | - | 2023.10  | [[paper]](https://arxiv.org/pdf/2309.15214.pdf) |
 | FuXi-Extreme | Improving extreme rainfall and wind forecasts with diffusion model | Global (Extreme) Weather Forecasting | - | 2023.10  | [[paper]](https://arxiv.org/pdf/2310.19822.pdf) |
 | OF-Diff            | Probabilistic Precipitation Downscaling with Optical Flow-Guided Diffusion | Downscaling | - | 2023.11  | [[paper]](https://arxiv.org/pdf/2312.06071.pdf) |
-| GenCast            | GenCast: Diffusion-based ensemble forecasting for medium-range weather | Global Weather Forecasting | - | 2023.12  | [[paper]](https://arxiv.org/pdf/2312.15796)   |
+| GenCast            | Diffusion-based ensemble forecasting for medium-range weather | Global Weather Forecasting | - | 2023.12  | [[paper]](https://arxiv.org/pdf/2312.15796)   |
 | DiffCast            | A Unified Framework via Residual Diffusion for Precipitation Nowcasting | Precipitation Nowcasting | CVPR 2024 | 2023.12  | [[paper]](https://arxiv.org/pdf/2312.06734.pdf) [[code]](https://github.com/DeminYu98/DiffCast) |
 | DGDM            | Deterministic Guidance Diffusion Model for Probabilistic Weather Forecasting | Weather Forecasting using Satellite | ECCV 2024 | 2023.12  | [[paper]](https://arxiv.org/pdf/2312.02819.pdf) [[code]](https://github.com/DongGeun-Yoon/DGDM?tab=readme-ov-file)  |
 | - | Advancing Realistic Precipitation Nowcasting With a Spatiotemporal Transformer-Based Denoising Diffusion Model | Precipitation Nowcasting | IEEE TGRS | 2024.01  | [[paper]](https://ieeexplore.ieee.org/abstract/document/10403855)  |
@@ -53,4 +54,6 @@ I might miss the publication of a paper if it is published after its initial upl
 | Yantian | An Application Platform for AI Global Weather Forecasting Models | Global Weather Forecasting | - | 2024.10  | [[paper]](https://arxiv.org/pdf/2410.04539)  |
 | ARCI | Continuous Ensemble Weather Forecasting with Diffusion models | Ensemble Forecasting | - | 2024.10  | [[paper]](https://arxiv.org/pdf/2410.05431) [[code]](https://github.com/martinandrae/Continuous-Ensemble-Forecasting)  |
 | IceDiff | High Resolution and High-Quality Sea Ice Forecasting with Generative Diffusion Prior | Sea Ice Forecasting | - | 2024.10  | [[paper]](https://arxiv.org/pdf/2410.09111)  |
+| - | Ensemble-based, large-eddy reconstruction of wind turbine inflow in a near-stationary atmospheric boundary layer through generative artificial intelligence | Data Reconstruction | - | 2024.10  | [[paper]](https://arxiv.org/pdf/2410.14024)  |
+| TCP-Diffusion | A Multi-modal Diffusion Model for Global Tropical Cyclone Precipitation Forecasting with Change Awareness | TC/Precipitation Forecasting | - | 2024.00  | [[paper]](https://arxiv.org/pdf/2410.13175) |
 | - | - | - | - | 2024.00  | [[paper]]() [[code]]()  |
