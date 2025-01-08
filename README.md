@@ -56,4 +56,6 @@ I might miss the publication of a paper if it is published after its initial upl
 | - | Ensemble-based, large-eddy reconstruction of wind turbine inflow in a near-stationary atmospheric boundary layer through generative artificial intelligence | Data Reconstruction | - | 2024.10  | [[paper]](https://arxiv.org/pdf/2410.14024)  |
 | TCP-Diffusion | A Multi-modal Diffusion Model for Global Tropical Cyclone Precipitation Forecasting with Change Awareness | TC/Precipitation Forecasting | - | 2024.10  | [[paper]](https://arxiv.org/pdf/2410.13175) |
 | GenBCSR | Statistical Downscaling via High-Dimensional Distribution Matching with Generative Models | Downscaling | - | 2024.12  | [[paper]](https://arxiv.org/pdf/2412.08079) |
+| - | Downscaling Precipitation with Bias-informed Conditional Diffusion Model | Downscaling | - | 2024.12  | [[paper]](https://arxiv.org/pdf/2412.14539) [[code]](https://github.com/RoseLV/research_super-resolution)  |
+| - | Spatiotemporally Coherent Probabilistic Generation of Weather from Climate | Downscaling | - | 2024.12  | [[paper]](https://arxiv.org/pdf/2412.15361) [[code]](https://github.com/schmidtjonathan/Climate2Weather)  |
 | - | - | - | - | 2024.00  | [[paper]]() [[code]]()  |
