@@ -62,4 +62,6 @@ I might miss the publication of a paper if it is published after its initial upl
 | - | Using Generative Models to Produce Realistic Populations of UK Windstorms | Windstorm Simulation | - | 2025.01  | [[paper]](https://arxiv.org/pdf/2501.16110) |
 | - | Improving Tropical Cyclone Forecasting With Video Diffusion Models | Tropical Cyclone Forecasting | - | 2025.01  | [[paper]](https://arxiv.org/pdf/2501.16003) [[code]](https://github.com/Ren-creater/forecast-video-diffmodels)  |
 | - | Ensemble score filter with image inpainting for data assimilation in tracking surface quasi-geostrophic dynamics with partial observations | Data Assimilation | - | 2025.01  | [[paper]](https://arxiv.org/pdf/2501.12419) [[code]](https://github.com/Siming-Liang/EnSFInpainting)  |
+| SGD | Satellite Observations Guided Diffusion Model for Accurate Meteorological States at Arbitrary Resolution | Downscaling | - | 2025.02  | [[paper]](https://arxiv.org/pdf/2502.07814)  |
+| SATcast | Skillful Nowcasting of Convective Clouds With a Cascade Diffusion Model | Convective Clouds Nowcasting | - | 2025.02  | [[paper]](https://arxiv.org/pdf/2502.10957) [[code]](https://github.com/cd4tpcell/SATcast/tree/main)  |
 | - | - | - | - | 2025.00  | [[paper]]() [[code]]()  |
