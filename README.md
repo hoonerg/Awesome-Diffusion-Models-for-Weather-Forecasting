@@ -64,4 +64,6 @@ I might miss the publication of a paper if it is published after its initial upl
 | - | Ensemble score filter with image inpainting for data assimilation in tracking surface quasi-geostrophic dynamics with partial observations | Data Assimilation | - | 2025.01  | [[paper]](https://arxiv.org/pdf/2501.12419) [[code]](https://github.com/Siming-Liang/EnSFInpainting)  |
 | SGD | Satellite Observations Guided Diffusion Model for Accurate Meteorological States at Arbitrary Resolution | Downscaling | - | 2025.02  | [[paper]](https://arxiv.org/pdf/2502.07814)  |
 | SATcast | Skillful Nowcasting of Convective Clouds With a Cascade Diffusion Model | Convective Clouds Nowcasting | - | 2025.02  | [[paper]](https://arxiv.org/pdf/2502.10957) [[code]](https://github.com/cd4tpcell/SATcast/tree/main)  |
+| Diffusion-LAM | Probabilistic Limited Area Weather Forecasting with Diffusion | Probabilistic/Regional Forecasting | - | 2025.02  | [[paper]](https://arxiv.org/pdf/2502.07532) [[code]](https://github.com/ErikLarssonDev/neural-lam/tree/prob-model-boundary-ICLR-workshop-2025)  |
+| - | Data-driven Mesoscale Weather Forecasting Combining Swin-Unet and Diffusion Models | Mesoscale Forecasting | - | 2025.03  | [[paper]](https://arxiv.org/pdf/2503.19354) |
 | - | - | - | - | 2025.00  | [[paper]]() [[code]]()  |
