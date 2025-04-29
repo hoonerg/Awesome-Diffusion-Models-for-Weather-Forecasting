@@ -66,4 +66,5 @@ I might miss the publication of a paper if it is published after its initial upl
 | ***SATcast*** - Skillful Nowcasting of Convective Clouds With a Cascade Diffusion Model | Convective Clouds Nowcasting | - | 2025.02  | [[paper]](https://arxiv.org/pdf/2502.10957) [[code]](https://github.com/cd4tpcell/SATcast/tree/main)  |
 | ***Diffusion-LAM*** - Probabilistic Limited Area Weather Forecasting with Diffusion | Probabilistic/Regional Forecasting | - | 2025.02  | [[paper]](https://arxiv.org/pdf/2502.07532) [[code]](https://github.com/ErikLarssonDev/neural-lam/tree/prob-model-boundary-ICLR-workshop-2025)  |
 | Data-driven Mesoscale Weather Forecasting Combining Swin-Unet and Diffusion Models | Mesoscale Forecasting | - | 2025.03  | [[paper]](https://arxiv.org/pdf/2503.19354) |
-| - | - | - | - | 2025.00  | [[paper]]() [[code]]()  |
+| ***Appa*** - Bending Weather Dynamics with Latent Diffusion Models for Global Data Assimilation | Data Assimilation | - | 2025.04  | [[paper]](https://arxiv.org/pdf/2504.18720) [[code]](https://montefiore-sail.github.io/appa/)  |
+| - | - | - | 2025.00  | [[paper]]() [[code]]()  |
