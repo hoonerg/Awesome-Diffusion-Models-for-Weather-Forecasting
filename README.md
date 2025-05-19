@@ -39,7 +39,6 @@ I might miss the publication of a paper if it is published after its initial upl
 | ***CloudDiff*** - Super-resolution ensemble retrieval of cloud properties for all day using the generative diffusion model | Super-resolution | - | 2024.05  | [[paper]](https://arxiv.org/pdf/2405.04483)  |
 | ***Spherical DYffusion*** - Probabilistic Emulation of a Global Climate Model with Spherical DYffusion | Global Climate Modelling | NeurIPS 2024 | 2024.06  | [[paper]](https://arxiv.org/pdf/2406.14798)  [[code]](https://github.com/Rose-STL-Lab/spherical-dyffusion) |
 | Towards diffusion models for large-scale sea-ice modelling | Sea-Ice modelling | - | 2024.06  | [[paper]](https://arxiv.org/pdf/2406.18417)  |
-| ***AIFS*** - ECMWF's data-driven forecasting system | Global Weather Forecasting | - | 2024.06  | [[paper]](https://arxiv.org/pdf/2406.01465) [[code]](https://huggingface.co/ecmwf/aifs-single) |
 | Generative Data Assimilation of Sparse Weather Station Observations at Kilometer Scales | Data Assimilation | - | 2024.06  | [[paper]](https://arxiv.org/pdf/2406.16947)  |
 | ***LDM_res*** - Can AI be enabled to dynamical downscaling? A Latent Diffusion Model to mimic km-scale COSMO5.0_CLM9 simulations | Downscaling | - | 2024.06  | [[paper]](https://arxiv.org/pdf/2406.13627) [[code]](https://github.com/DSIP-FBK/DiffScaler)  |
 | Latent Diffusion Model for Generating Ensembles of Climate Simulations | Ensemble Forecasting | - | 2024.07  | [[paper]](https://arxiv.org/pdf/2407.02070)  |
@@ -67,4 +66,6 @@ I might miss the publication of a paper if it is published after its initial upl
 | ***Diffusion-LAM*** - Probabilistic Limited Area Weather Forecasting with Diffusion | Probabilistic/Regional Forecasting | - | 2025.02  | [[paper]](https://arxiv.org/pdf/2502.07532) [[code]](https://github.com/ErikLarssonDev/neural-lam/tree/prob-model-boundary-ICLR-workshop-2025)  |
 | Data-driven Mesoscale Weather Forecasting Combining Swin-Unet and Diffusion Models | Mesoscale Forecasting | - | 2025.03  | [[paper]](https://arxiv.org/pdf/2503.19354) |
 | ***Appa*** - Bending Weather Dynamics with Latent Diffusion Models for Global Data Assimilation | Data Assimilation | - | 2025.04  | [[paper]](https://arxiv.org/pdf/2504.18720) [[code]](https://montefiore-sail.github.io/appa/)  |
+| ***cBottle*** - Climate in a Bottle: Towards a Generative Foundation Model for the Kilometer-Scale Global Atmosphere | Global Weather Forecasting | - | 2025.05  | [[paper]](https://arxiv.org/pdf/2505.06474v1) [[code]](https://github.com/NVlabs/cBottle)  |
+| Score-based diffusion nowcasting of GOES imagery | Cloud Nowcasting | - | 2025.05  | [[paper]](https://arxiv.org/abs/2505.10432) [[code]](https://github.com/dopplerchase/cira-diff)  |
 | - | - | - | 2025.00  | [[paper]]() [[code]]()  |
