@@ -9,7 +9,7 @@ I might miss the publication of a paper if it is published after its initial upl
 
 ## Diffusion Models
 | (***Model Name***) - Paper Title                | Topic                      | Publication    | Date (&darr;) | Links                                         |
-| ----------------------------------------- | -------------------------- | -------------- | -------- | --------------------------------------------- |
+| ---------------------------------------------- | ------------------ | -------------- | -------- | ----------------- |
 | Diffusion Models for High-Resolution Solar Forecasts | Cloud Cover Forecasting | - | 2023.02  | [[paper]](https://arxiv.org/pdf/2302.00170v1.pdf)   |
 | ***LDCast*** - Latent diffusion models for generative precipitation nowcasting with accurate uncertainty quantification | Precipitation Nowcasting | - | 2023.04  | [[paper]](https://arxiv.org/pdf/2304.12891.pdf) [[code]](https://github.com/MeteoSwiss/ldcast)  |
 | ***DiffESM*** - Conditional Emulation of Earth System Models with Diffusion Models | Emulation | ICLR 2023 Workshop | 2023.04  | [[paper]](https://arxiv.org/pdf/2304.11699.pdf) [[code]](https://github.com/JGCRI/diffesm)  |
@@ -68,4 +68,7 @@ I might miss the publication of a paper if it is published after its initial upl
 | ***Appa*** - Bending Weather Dynamics with Latent Diffusion Models for Global Data Assimilation | Data Assimilation | - | 2025.04  | [[paper]](https://arxiv.org/pdf/2504.18720) [[code]](https://montefiore-sail.github.io/appa/)  |
 | ***cBottle*** - Climate in a Bottle: Towards a Generative Foundation Model for the Kilometer-Scale Global Atmosphere | Global Weather Forecasting | - | 2025.05  | [[paper]](https://arxiv.org/pdf/2505.06474v1) [[code]](https://github.com/NVlabs/cBottle)  |
 | Score-based diffusion nowcasting of GOES imagery | Cloud Nowcasting | - | 2025.05  | [[paper]](https://arxiv.org/abs/2505.10432) [[code]](https://github.com/dopplerchase/cira-diff)  |
+| ***Align-DA*** - Align Score-based Atmospheric Data Assimilation with Multiple Preferences | Data Assimilation | - | 2025.05  | [[paper]](https://arxiv.org/pdf/2505.22008) |
+| Using Diffusion Models to do Data Assimilation | Data Assimilation | - | 2025.06  | [[paper]](https://arxiv.org/pdf/2506.02249) |
+|  ***DEF*** - Diffusion-augmented Ensemble Forecasting | Emsemble Forecasting | - | 2025.06  | [[paper]](https://arxiv.org/pdf/2506.07324) |
 | - | - | - | 2025.00  | [[paper]]() [[code]]()  |
