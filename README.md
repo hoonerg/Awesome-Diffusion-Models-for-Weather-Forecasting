@@ -70,5 +70,12 @@ I might miss the publication of a paper if it is published after its initial upl
 | Score-based diffusion nowcasting of GOES imagery | Cloud Nowcasting | - | 2025.05  | [[paper]](https://arxiv.org/abs/2505.10432) [[code]](https://github.com/dopplerchase/cira-diff)  |
 | ***Align-DA*** - Align Score-based Atmospheric Data Assimilation with Multiple Preferences | Data Assimilation | - | 2025.05  | [[paper]](https://arxiv.org/pdf/2505.22008) |
 | Using Diffusion Models to do Data Assimilation | Data Assimilation | - | 2025.06  | [[paper]](https://arxiv.org/pdf/2506.02249) |
-|  ***DEF*** - Diffusion-augmented Ensemble Forecasting | Emsemble Forecasting | - | 2025.06  | [[paper]](https://arxiv.org/pdf/2506.07324) |
+| ***DEF*** - Diffusion-augmented Ensemble Forecasting | Emsemble Forecasting | - | 2025.06  | [[paper]](https://arxiv.org/pdf/2506.07324) |
+| ***MODS*** - Multi-source Observations Conditional Diffusion Model for Meteorological State Downscaling | Downscaling | - | 2025.06  | [[paper]](https://arxiv.org/abs/2506.14798) |
+| Elucidated Rolling Diffusion Models for Probabilistic Weather Forecasting | Probabilistic Forecasting | - | 2025.06  | [[paper]](https://arxiv.org/abs/2506.20024) [[code]](https://github.com/salvaRC/erdm)  |
+| ***LaDCast*** - A Latent Diffusion Model for Medium-Range Ensemble Weather Forecasting | Global Weather Forecasting | - | 2025.06  | [[paper]](https://arxiv.org/abs/2506.09193) [[code]](https://github.com/tonyzyl/ladcast)  |
+| Guided Unconditional and Conditional Generative Models for Super-Resolution and Inference of Quasi-Geostrophic Turbulence | Super-resolution | - | 2025.07  | [[paper]](https://arxiv.org/abs/2507.00719) [[code]](https://github.com/ananthu545/quasi-geostrophic-beta-plane-super-resolution)  |
+| ***HRRRCast*** - Data-driven emulator for regional weather forecasting at convection allowing scales | Regional Weather Forecasting | - | 2025.07  | [[paper]](https://arxiv.org/abs/2507.05658) |
+| Efficient Kilometer-Scale Precipitation Downscaling with Conditional Wavelet Diffusion | Precipitation Downscaling | - | 2025.07  | [[paper]](https://arxiv.org/abs/2507.01354) |
+| Generative Lagrangian data assimilation for ocean dynamics under extreme sparsity | Data Assimilation | - | 2025.07  | [[paper]](https://arxiv.org/abs/2507.06479) [[code]](https://github.com/TACS-UCSC/GenDA-Lagrangian)  |
 | - | - | - | 2025.00  | [[paper]]() [[code]]()  |
