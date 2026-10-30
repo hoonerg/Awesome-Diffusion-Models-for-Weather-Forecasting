@@ -1,15 +1,15 @@
 # Awesome Diffusion Models for Weather Forecasting 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/hoonerg/Awesome-Diffusion-Models-for-Weather-Forecasting) ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) 
 
-A collection of research papers on Diffusion Models for Weather Forecasting.  
-The papers are ordered by date.
+A collection of research papers on diffusion and related score-based generative models for weather forecasting, climate and atmospheric science.  
+The papers are ordered by the date of first public release, usually the first arXiv submission (not the journal publication date).
 
-I check Arxiv weekly and add any diffusion-related papers on topics in atmospheric science.  
-I might miss the publication of a paper if it is published after its initial upload to Arxiv.
+Last updated: **2026-10-30**. This is a curated research list rather than an exhaustive index. Publication venues are updated when known; `-` indicates an unconfirmed or unpublished venue. Flow-matching papers are included where they are directly relevant to diffusion-based weather forecasting.
 
 ## Diffusion Models
-| (***Model Name***) - Paper Title                | Topic                      | Publication    | Date (&darr;) | Links                                         |
-| ---------------------------------------------- | ------------------ | -------------- | -------- | ----------------- |
+
+| (***Model Name***) - Paper Title | Topic | Publication | Date (&darr;) | Links |
+| --- | --- | --- | --- | --- |
 | Diffusion Models for High-Resolution Solar Forecasts | Cloud Cover Forecasting | - | 2023.02  | [[paper]](https://arxiv.org/pdf/2302.00170v1.pdf)   |
 | ***LDCast*** - Latent diffusion models for generative precipitation nowcasting with accurate uncertainty quantification | Precipitation Nowcasting | - | 2023.04  | [[paper]](https://arxiv.org/pdf/2304.12891.pdf) [[code]](https://github.com/MeteoSwiss/ldcast)  |
 | ***DiffESM*** - Conditional Emulation of Earth System Models with Diffusion Models | Emulation | ICLR 2023 Workshop | 2023.04  | [[paper]](https://arxiv.org/pdf/2304.11699.pdf) [[code]](https://github.com/JGCRI/diffesm)  |
@@ -18,7 +18,7 @@ I might miss the publication of a paper if it is published after its initial upl
 | ***SwinRDM*** - Integrate SwinRNN with Diffusion Model towards High-Resolution and High-Quality Weather Forecasting | Global Weather Forecasting | AAAI 2023 | 2023.06  | [[paper]](https://arxiv.org/pdf/2306.03110.pdf)  |
 | ***PreDiff*** - Precipitation Nowcasting with Latent Diffusion Models | Precipitation Nowcasting | NeurIPS 2023 | 2023.07  | [[paper]](https://arxiv.org/pdf/2307.10422.pdf) [[code]](https://github.com/gaozhihan/PreDiff)  |
 | ***GDE*** - Precipitation nowcasting with generative diffusion models | Precipitation Nowcasting | - | 2023.08  | [[paper]](https://arxiv.org/pdf/2308.06733.pdf) [[code]](https://github.com/fmerizzi/Precipitation-nowcasting-with-generative-diffusion-models)  |
-| ***CorrDiff*** - Residual Diffusion Modeling for Km-scale Atmospheric Downscaling | Downscaling | - | 2023.10  | [[paper]](https://arxiv.org/pdf/2309.15214.pdf) |
+| ***CorrDiff*** - Residual corrective diffusion modeling for km-scale atmospheric downscaling | Downscaling | Communications Earth & Environment 2025 | 2023.10  | [[paper]](https://arxiv.org/pdf/2309.15214.pdf) |
 | ***FuXi-Extreme*** - Improving extreme rainfall and wind forecasts with diffusion model | Global (Extreme) Weather Forecasting | - | 2023.10  | [[paper]](https://arxiv.org/pdf/2310.19822.pdf) |
 | ***OF-Diff*** - Probabilistic Precipitation Downscaling with Optical Flow-Guided Diffusion | Downscaling | - | 2023.11  | [[paper]](https://arxiv.org/pdf/2312.06071.pdf) |
 | ***GenCast*** - Diffusion-based ensemble forecasting for medium-range weather | Global Weather Forecasting | Nature | 2023.12  | [[paper]](https://arxiv.org/pdf/2312.15796)  [[code]](https://github.com/google-deepmind/graphcast) |
@@ -50,14 +50,15 @@ I might miss the publication of a paper if it is published after its initial upl
 | ***CoDiCast*** - Conditional Diffusion Model for Weather Prediction with Uncertainty Quantification | Global Weather Forecasting | - | 2024.09  | [[paper]](https://arxiv.org/pdf/2409.05975) [[code]](https://github.com/JimengShi/CoDiCast)  |
 | ***R2-D2*** - Dynamical-generative downscaling of climate model ensembles | Downscaling | - | 2024.10  | [[paper]](https://arxiv.org/pdf/2410.01776) |
 | ***Yantian*** - An Application Platform for AI Global Weather Forecasting Models | Global Weather Forecasting | - | 2024.10  | [[paper]](https://arxiv.org/pdf/2410.04539)  |
-| ***ARCI*** - Continuous Ensemble Weather Forecasting with Diffusion models | Ensemble Forecasting | - | 2024.10  | [[paper]](https://arxiv.org/pdf/2410.05431) [[code]](https://github.com/martinandrae/Continuous-Ensemble-Forecasting)  |
+| ***ARCI*** - Continuous Ensemble Weather Forecasting with Diffusion models | Ensemble Forecasting | ICLR 2025 | 2024.10  | [[paper]](https://arxiv.org/pdf/2410.05431) [[code]](https://github.com/martinandrae/Continuous-Ensemble-Forecasting)  |
 | ***IceDiff*** - High Resolution and High-Quality Sea Ice Forecasting with Generative Diffusion Prior | Sea Ice Forecasting | - | 2024.10  | [[paper]](https://arxiv.org/pdf/2410.09111)  |
 | Ensemble-based, large-eddy reconstruction of wind turbine inflow in a near-stationary atmospheric boundary layer through generative artificial intelligence | Data Reconstruction | - | 2024.10  | [[paper]](https://arxiv.org/pdf/2410.14024)  |
 | ***TCP-Diffusion*** - A Multi-modal Diffusion Model for Global Tropical Cyclone Precipitation Forecasting with Change Awareness | TC/Precipitation Forecasting | - | 2024.10  | [[paper]](https://arxiv.org/pdf/2410.13175) |
+| ***WassDiff*** - Downscaling Extreme Precipitation With Wasserstein Regularized Diffusion | Precipitation Downscaling / Extremes | IEEE TGRS 2025 | 2024.10 | [[paper]](https://arxiv.org/abs/2410.00381) [[code]](https://github.com/Way-Yuhao/WassDiff) |
 | ***GenBCSR*** - Statistical Downscaling via High-Dimensional Distribution Matching with Generative Models | Downscaling | - | 2024.12  | [[paper]](https://arxiv.org/pdf/2412.08079) |
 | Downscaling Precipitation with Bias-informed Conditional Diffusion Model | Downscaling | - | 2024.12  | [[paper]](https://arxiv.org/pdf/2412.14539) [[code]](https://github.com/RoseLV/research_super-resolution)  |
-| Spatiotemporally Coherent Probabilistic Generation of Weather from Climate | Downscaling | - | 2024.12  | [[paper]](https://arxiv.org/pdf/2412.15361) [[code]](https://github.com/schmidtjonathan/Climate2Weather)  |
 | A Generative Framework for Probabilistic, Spatiotemporally Coherent Downscaling of Climate Simulation | Downscaling | - | 2024.12  | [[paper]](https://arxiv.org/pdf/2412.15361) [[code]](https://github.com/schmidtjonathan/Climate2Weather)  |
+| ***ArchesWeatherGen*** - ArchesWeather & ArchesWeatherGen: a deterministic and generative model for efficient ML weather forecasting | Global Probabilistic Forecasting (Flow Matching) | Science Advances 2026 | 2024.12 | [[paper]](https://arxiv.org/abs/2412.12971) [[code]](https://github.com/INRIA/geoarches) |
 | Using Generative Models to Produce Realistic Populations of UK Windstorms | Windstorm Simulation | - | 2025.01  | [[paper]](https://arxiv.org/pdf/2501.16110) |
 | Improving Tropical Cyclone Forecasting With Video Diffusion Models | Tropical Cyclone Forecasting | - | 2025.01  | [[paper]](https://arxiv.org/pdf/2501.16003) [[code]](https://github.com/Ren-creater/forecast-video-diffmodels)  |
 | Ensemble score filter with image inpainting for data assimilation in tracking surface quasi-geostrophic dynamics with partial observations | Data Assimilation | - | 2025.01  | [[paper]](https://arxiv.org/pdf/2501.12419) [[code]](https://github.com/Siming-Liang/EnSFInpainting)  |
@@ -65,17 +66,32 @@ I might miss the publication of a paper if it is published after its initial upl
 | ***SATcast*** - Skillful Nowcasting of Convective Clouds With a Cascade Diffusion Model | Convective Clouds Nowcasting | - | 2025.02  | [[paper]](https://arxiv.org/pdf/2502.10957) [[code]](https://github.com/cd4tpcell/SATcast/tree/main)  |
 | ***Diffusion-LAM*** - Probabilistic Limited Area Weather Forecasting with Diffusion | Probabilistic/Regional Forecasting | - | 2025.02  | [[paper]](https://arxiv.org/pdf/2502.07532) [[code]](https://github.com/ErikLarssonDev/neural-lam/tree/prob-model-boundary-ICLR-workshop-2025)  |
 | Data-driven Mesoscale Weather Forecasting Combining Swin-Unet and Diffusion Models | Mesoscale Forecasting | - | 2025.03  | [[paper]](https://arxiv.org/pdf/2503.19354) |
-| ***Appa*** - Bending Weather Dynamics with Latent Diffusion Models for Global Data Assimilation | Data Assimilation | - | 2025.04  | [[paper]](https://arxiv.org/pdf/2504.18720) [[code]](https://montefiore-sail.github.io/appa/)  |
+| ***Appa*** - Bending Weather Dynamics with Latent Diffusion Models for Global Data Assimilation | Data Assimilation | - | 2025.04  | [[paper]](https://arxiv.org/pdf/2504.18720) [[code]](https://github.com/montefiore-sail/appa)  |
 | ***cBottle*** - Climate in a Bottle: Towards a Generative Foundation Model for the Kilometer-Scale Global Atmosphere | Global Weather Forecasting | - | 2025.05  | [[paper]](https://arxiv.org/pdf/2505.06474v1) [[code]](https://github.com/NVlabs/cBottle)  |
 | Score-based diffusion nowcasting of GOES imagery | Cloud Nowcasting | - | 2025.05  | [[paper]](https://arxiv.org/abs/2505.10432) [[code]](https://github.com/dopplerchase/cira-diff)  |
 | ***Align-DA*** - Align Score-based Atmospheric Data Assimilation with Multiple Preferences | Data Assimilation | - | 2025.05  | [[paper]](https://arxiv.org/pdf/2505.22008) |
 | Using Diffusion Models to do Data Assimilation | Data Assimilation | - | 2025.06  | [[paper]](https://arxiv.org/pdf/2506.02249) |
-| ***DEF*** - Diffusion-augmented Ensemble Forecasting | Emsemble Forecasting | - | 2025.06  | [[paper]](https://arxiv.org/pdf/2506.07324) |
+| ***DEF*** - Diffusion-augmented Ensemble Forecasting | Ensemble Forecasting | - | 2025.06  | [[paper]](https://arxiv.org/pdf/2506.07324) |
 | ***MODS*** - Multi-source Observations Conditional Diffusion Model for Meteorological State Downscaling | Downscaling | - | 2025.06  | [[paper]](https://arxiv.org/abs/2506.14798) |
-| Elucidated Rolling Diffusion Models for Probabilistic Weather Forecasting | Probabilistic Forecasting | - | 2025.06  | [[paper]](https://arxiv.org/abs/2506.20024) [[code]](https://github.com/salvaRC/erdm)  |
+| ***ERDM*** - Elucidated Rolling Diffusion Models for Probabilistic Forecasting of Complex Dynamics | Probabilistic Forecasting | NeurIPS 2025 | 2025.06  | [[paper]](https://arxiv.org/abs/2506.20024) [[code]](https://github.com/salvaRC/erdm)  |
 | ***LaDCast*** - A Latent Diffusion Model for Medium-Range Ensemble Weather Forecasting | Global Weather Forecasting | - | 2025.06  | [[paper]](https://arxiv.org/abs/2506.09193) [[code]](https://github.com/tonyzyl/ladcast)  |
 | Guided Unconditional and Conditional Generative Models for Super-Resolution and Inference of Quasi-Geostrophic Turbulence | Super-resolution | - | 2025.07  | [[paper]](https://arxiv.org/abs/2507.00719) [[code]](https://github.com/ananthu545/quasi-geostrophic-beta-plane-super-resolution)  |
 | ***HRRRCast*** - Data-driven emulator for regional weather forecasting at convection allowing scales | Regional Weather Forecasting | - | 2025.07  | [[paper]](https://arxiv.org/abs/2507.05658) |
 | Efficient Kilometer-Scale Precipitation Downscaling with Conditional Wavelet Diffusion | Precipitation Downscaling | - | 2025.07  | [[paper]](https://arxiv.org/abs/2507.01354) |
 | Generative Lagrangian data assimilation for ocean dynamics under extreme sparsity | Data Assimilation | - | 2025.07  | [[paper]](https://arxiv.org/abs/2507.06479) [[code]](https://github.com/TACS-UCSC/GenDA-Lagrangian)  |
+| ***DDMS*** - Four-hour thunderstorm nowcasting using a deep diffusion model for satellite data | Convective Cloud / Thunderstorm Nowcasting | PNAS 2025 | 2025.12 | [[paper]](https://doi.org/10.1073/pnas.2517520122) |
+| An intercomparison of generative machine learning methods for downscaling precipitation at fine spatial scales | Precipitation Downscaling / Model Comparison | - | 2025.12 | [[paper]](https://arxiv.org/abs/2512.13987) |
+| ***WIND*** - Weather Inverse Diffusion for Zero-Shot Atmospheric Modeling | Forecasting / Downscaling / Data Assimilation | ICML 2026 | 2026.02 | [[paper]](https://arxiv.org/abs/2602.03924) [[code]](https://github.com/ml-jku/wind) |
+| ***DiffScale*** - Continuous Downscaling and Bias Correction of Subseasonal Wind Speed Forecasts Using Diffusion Models | Subseasonal Downscaling / Bias Correction | JAMES 2026 | 2026.03 | [[paper]](https://doi.org/10.1029/2025MS005282) |
+| Downscaling weather forecasts from Low- to High-Resolution with Diffusion Models | Ensemble Downscaling (Anemoi) | - | 2026.03 | [[paper]](https://arxiv.org/abs/2604.03303) |
+| Towards accurate extreme event likelihoods from diffusion model climate emulators | Climate Emulation / Extreme Event Likelihoods | - | 2026.05 | [[paper]](https://arxiv.org/abs/2605.03802) |
+| Joint bias correction and downscaling of subseasonal forecasts via diffusion models | Subseasonal Downscaling / Bias Correction | Environmental Data Science 2026 | 2026.07 | [[paper]](https://www.cambridge.org/core/journals/environmental-data-science/article/joint-bias-correction-and-downscaling-of-subseasonal-forecasts-via-diffusion-models/6824ADAF5E96F1D8593F11F6E7337F97) |
+| Precipitation Downscaling Using Foundation Model-Conditioned Diffusion | Precipitation Downscaling | - | 2026.08 | [[paper]](https://arxiv.org/abs/2608.25858) |
+| Diffusion Distillation for Efficient Weather Ensembles | Ensemble Forecasting / Efficient Sampling | - | 2026.08 | [[paper]](https://arxiv.org/abs/2608.27728) |
+| ***FuXi-TC*** - A generative framework integrating deep learning and physics-based models for improved tropical cyclone forecasts | Tropical Cyclone Forecasting | npj Climate and Atmospheric Science 2026 | 2026.09 | [[paper]](https://doi.org/10.1038/s41612-026-01501-w) |
+| ***GenLUPIN*** - Physics-Informed Score-Based Diffusion in a Lagrangian Framework for Spectrally Consistent Precipitation Nowcasting | Precipitation Nowcasting | IEEE Access 2026 | 2026.09 | [[paper]](https://doi.org/10.1109/ACCESS.2026.3730270) |
+| ***NowcastDiT*** - Diffusion Transformers are Effective Precipitation Nowcasters | Precipitation Nowcasting | - | 2026.09 | [[paper]](https://arxiv.org/abs/2609.37038) |
+| Proper Scoring Rule-based Diffusion for Probabilistic Weather Forecasting | Probabilistic Weather Forecasting | - | 2026.09 | [[paper]](https://arxiv.org/abs/2609.38632) |
+| ***JWS*** - Just Weather Scoring: Efficient End-to-end Nowcasting with Distributional Diffusion | Precipitation Nowcasting / Efficient Sampling | - | 2026.10 | [[paper]](https://arxiv.org/abs/2610.12189) |
+| Diffusion Precipitation Generation with Medium-range Weather Forecasting | Global Precipitation Forecasting | - | 2026.10 | [[paper]](https://arxiv.org/abs/2610.12976) |
 | - | - | - | 2025.00  | [[paper]]() [[code]]()  |
